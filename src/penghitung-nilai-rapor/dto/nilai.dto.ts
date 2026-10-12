@@ -1,4 +1,4 @@
-import { ArrayNotEmpty, IsArray, IsNotEmpty, IsNumber, IsString, Max, MIN, Min } from "class-validator";
+import { ArrayNotEmpty, IsArray, IsNotEmpty, IsNumber, IsString, Max, Min } from "class-validator";
 
 export class nilaiDto{
     @IsNotEmpty()
